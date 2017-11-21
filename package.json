@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mathew43/nauka-gita/issues"
   },
-  "homepage": "https://github.com/mathew43/nauka-gita#readme"
+  "homepage": "https://github.com/mathew43/nauka-gita#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.13"
+  }
 }
